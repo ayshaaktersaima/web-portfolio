@@ -1,0 +1,21 @@
+body{
+    font-family: 'Cardo', serif;
+}
+h1{
+    font-size: 50px;
+    
+}
+.highlighting_name{
+    color: rgb(8, 142, 151);
+
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+
+}
